@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:02,940
+The solid Caro-Kann still has a piece that can get trapped.
+
+2
+00:00:04,450 --> 00:00:07,850
+This is the Caro-Kann Bishop Trap in the Caro-Kann Defense.
+
+3
+00:00:08,840 --> 00:00:13,320
+The first moves look completely normal. Develop, challenge the center, and wait.
+
+4
+00:00:13,630 --> 00:00:18,690
+Both sides keep playing natural moves, and the position starts to hide the real idea.
+
+5
+00:00:19,000 --> 00:00:23,920
+Now the pieces point toward the target. One loose defender is all the trap needs.
+
+6
+00:00:24,230 --> 00:00:29,340
+The bait appears. It looks like free material, but it is the move the trap was waiting for.
+
+7
+00:00:29,650 --> 00:00:34,900
+The reply is forcing. The attacker does not need to calculate ten moves, only the next check.
+
+8
+00:00:35,210 --> 00:00:41,160
+The point is simple: White gains space with h4 and develops while the bishop has no comfortable square.
+
+9
+00:00:41,470 --> 00:00:47,250
+The king has fewer choices than it seems, and every escape square is covered by a piece or a pawn.
+
+10
+00:00:47,560 --> 00:00:53,270
+And now White gains space with h4 and develops while the bishop has no comfortable square.
+
+11
+00:00:53,580 --> 00:00:58,620
+That is why the tempting move fails: the position was already built around the final tactic.
+
+12
+00:00:58,930 --> 00:01:04,130
+Save the pattern. In a real game, spotting the idea one move earlier is the whole point.
+
+13
+00:01:04,440 --> 00:01:06,280
+Would you see it before taking the bait?
+

@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:03,030
+Black gives up a pawn to build a dangerous passed pawn.
+
+2
+00:00:04,450 --> 00:00:07,830
+This is the Albin Countergambit Trap in the Albin Countergambit.
+
+3
+00:00:08,840 --> 00:00:13,320
+The first moves look completely normal. Develop, challenge the center, and wait.
+
+4
+00:00:13,630 --> 00:00:18,690
+Both sides keep playing natural moves, and the position starts to hide the real idea.
+
+5
+00:00:19,000 --> 00:00:23,920
+Now the pieces point toward the target. One loose defender is all the trap needs.
+
+6
+00:00:24,230 --> 00:00:29,340
+The bait appears. It looks like free material, but it is the move the trap was waiting for.
+
+7
+00:00:29,650 --> 00:00:34,900
+The reply is forcing. The attacker does not need to calculate ten moves, only the next check.
+
+8
+00:00:35,210 --> 00:00:40,010
+The point is simple: The d-pawn cramps white while the bishops and queen aim at the king.
+
+9
+00:00:40,320 --> 00:00:46,100
+The king has fewer choices than it seems, and every escape square is covered by a piece or a pawn.
+
+10
+00:00:46,410 --> 00:00:50,440
+And now the d-pawn cramps White while the bishops and queen aim at the king.
+
+11
+00:00:51,200 --> 00:00:56,240
+That is why the tempting move fails: the position was already built around the final tactic.
+
+12
+00:00:56,550 --> 00:01:01,750
+Save the pattern. In a real game, spotting the idea one move earlier is the whole point.
+
+13
+00:01:02,060 --> 00:01:03,900
+Would you see it before taking the bait?
+

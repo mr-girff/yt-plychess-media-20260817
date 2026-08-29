@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:03,920
+The Vienna center opens, and every capture changes the attack.
+
+2
+00:00:04,450 --> 00:00:06,920
+This is the Vienna Center Trap in the Vienna Game.
+
+3
+00:00:08,840 --> 00:00:13,760
+The first moves look completely normal. Develop, challenge the center, and wait.
+
+4
+00:00:14,070 --> 00:00:18,910
+Both sides keep playing natural moves, and the position starts to hide the real idea.
+
+5
+00:00:19,220 --> 00:00:24,260
+Now the pieces point toward the target. One loose defender is all the trap needs.
+
+6
+00:00:24,570 --> 00:00:29,680
+The bait appears. It looks like free material, but it is the move the trap was waiting for.
+
+7
+00:00:29,990 --> 00:00:35,310
+The reply is forcing. The attacker does not need to calculate ten moves, only the next check.
+
+8
+00:00:35,620 --> 00:00:40,700
+The point is simple: White has recovered the center while black has spent tempi on the attack.
+
+9
+00:00:41,010 --> 00:00:46,740
+The king has fewer choices than it seems, and every escape square is covered by a piece or a pawn.
+
+10
+00:00:47,050 --> 00:00:51,580
+And now White has recovered the center while Black has spent tempi on the attack.
+
+11
+00:00:51,890 --> 00:00:56,930
+That is why the tempting move fails: the position was already built around the final tactic.
+
+12
+00:00:57,240 --> 00:01:02,440
+Save the pattern. In a real game, spotting the idea one move earlier is the whole point.
+
+13
+00:01:02,750 --> 00:01:04,590
+Would you see it before taking the bait?
+

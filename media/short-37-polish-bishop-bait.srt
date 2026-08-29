@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:03,630
+Black grabs the wing pawn, and the bishop gets dragged around.
+
+2
+00:00:04,450 --> 00:00:07,660
+This is the Polish Opening Bishop Bait in the Polish Opening.
+
+3
+00:00:08,840 --> 00:00:13,280
+The first moves look completely normal. Develop, challenge the center, and wait.
+
+4
+00:00:13,590 --> 00:00:18,650
+Both sides keep playing natural moves, and the position starts to hide the real idea.
+
+5
+00:00:18,960 --> 00:00:23,880
+Now the pieces point toward the target. One loose defender is all the trap needs.
+
+6
+00:00:24,190 --> 00:00:29,300
+The bait appears. It looks like free material, but it is the move the trap was waiting for.
+
+7
+00:00:29,610 --> 00:00:34,860
+The reply is forcing. The attacker does not need to calculate ten moves, only the next check.
+
+8
+00:00:35,170 --> 00:00:39,750
+The point is simple: White has built a broad center while the bishop has lost time on the rim.
+
+9
+00:00:40,060 --> 00:00:45,840
+The king has fewer choices than it seems, and every escape square is covered by a piece or a pawn.
+
+10
+00:00:46,150 --> 00:00:50,300
+And now White has built a broad center while the bishop has lost time on the rim.
+
+11
+00:00:50,940 --> 00:00:55,980
+That is why the tempting move fails: the position was already built around the final tactic.
+
+12
+00:00:56,290 --> 00:01:01,490
+Save the pattern. In a real game, spotting the idea one move earlier is the whole point.
+
+13
+00:01:01,800 --> 00:01:03,640
+Would you see it before taking the bait?
+

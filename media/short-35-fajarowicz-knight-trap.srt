@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:04,020
+The Budapest knight jumps twice, but the center remembers.
+
+2
+00:00:04,450 --> 00:00:07,730
+This is the Fajarowicz Knight Trap in the Budapest Gambit.
+
+3
+00:00:08,840 --> 00:00:13,350
+The first moves look completely normal. Develop, challenge the center, and wait.
+
+4
+00:00:13,660 --> 00:00:18,120
+Both sides keep playing natural moves, and the position starts to hide the real idea.
+
+5
+00:00:18,430 --> 00:00:23,470
+Now the pieces point toward the target. One loose defender is all the trap needs.
+
+6
+00:00:23,780 --> 00:00:28,890
+The bait appears. It looks like free material, but it is the move the trap was waiting for.
+
+7
+00:00:29,200 --> 00:00:34,400
+The reply is forcing. The attacker does not need to calculate ten moves, only the next check.
+
+8
+00:00:34,710 --> 00:00:40,560
+The point is simple: Black has traded the active knight for a volatile but legal tactical position.
+
+9
+00:00:40,870 --> 00:00:46,600
+The king has fewer choices than it seems, and every escape square is covered by a piece or a pawn.
+
+10
+00:00:46,910 --> 00:00:51,850
+And now Black has traded the active knight for a volatile but legal tactical position.
+
+11
+00:00:52,160 --> 00:00:57,200
+That is why the tempting move fails: the position was already built around the final tactic.
+
+12
+00:00:57,510 --> 00:01:02,710
+Save the pattern. In a real game, spotting the idea one move earlier is the whole point.
+
+13
+00:01:03,020 --> 00:01:04,860
+Would you see it before taking the bait?
+
